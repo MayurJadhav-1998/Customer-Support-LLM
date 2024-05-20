@@ -1,0 +1,9 @@
+numexpr
+langchain
+openai
+openai-whisper
+sentence-transformers
+unstructured
+chromadb
+streamlit
+graphviz
